@@ -16,7 +16,7 @@ _TODO: Add screenshots after final styling._
 
 ## 📬 Contact
 For any issues or collaboration requests:
-- Email: `your_email@example.com`
+- Email: `info@brewzzle.com`
 - Instagram: `@brewzzle`
 
 ---
